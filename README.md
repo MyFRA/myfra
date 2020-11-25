@@ -3,14 +3,14 @@
 
 ## 👋 &nbsp;Hey there! I'm Tomy Wibowo
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying software engineering at the SMK Negeri 1 Rembang.\
 🌱 &nbsp;I'm on track for learning more about Node Js, React JS, and other.\
 ✉️ &nbsp;You can shoot me an email at tomyntapss@gmail.com I'll try to respond as soon as I can.\
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -29,7 +29,6 @@
 <p align="left">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MyFRA&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MyFRA&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
