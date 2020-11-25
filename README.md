@@ -24,7 +24,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/MyFRA">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MyFRA&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 </a>
 </p>
