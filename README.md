@@ -1,6 +1,3 @@
-
-# I still haven't edited it :D, so the data is still unsuitable
-
 ## 👋 &nbsp;Hey there! I'm Tomy Wibowo
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
