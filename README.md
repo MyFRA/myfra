@@ -32,7 +32,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/tomy.ntapss"><img src="https://img.shields.io/badge/-@Muhammad Tomy-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
