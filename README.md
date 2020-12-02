@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Tomy Wibowo
 
-<img alt="Kosaki Onodera" src="https://giffiles.alphacoders.com/486/48623.gif" align="right" width="375px" />
+<img alt="Kosaki Onodera" src="https://giffiles.alphacoders.com/486/48623.gif" align="right" width="350px" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
